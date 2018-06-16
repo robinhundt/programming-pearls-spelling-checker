@@ -6,6 +6,6 @@ All relevant data sources are included in the repository.
 
 ### Dependencies  
 To install the necessary dependencies simply execute  
-```
+```bash
 pip install --user -r requirements.txt
 ```
