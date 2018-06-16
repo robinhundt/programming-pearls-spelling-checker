@@ -1,8 +1,11 @@
-## Spelling Checker
+## Data structures and algorithms for spell checking and correction
 
+This repository contains a presentation and a technical preparation about data structures and algorithms for spell checking and correction.  
+It has been developed for the "Programming pearls" seminar at the university of Goettingen (May - June 2018). 
+All relevant data sources are included in the repository.
 
-
-### Contributing
-
-To contribute please follow the guide on http://pascalbugnion.net/blog/ipython-notebooks-and-git.html to filter the notebook before commiting.  
-Note: You need to specify the full path the .py file.
+### Dependencies  
+To install the necessary dependencies simply execute  
+```
+pip install --user -r requirements.txt
+```

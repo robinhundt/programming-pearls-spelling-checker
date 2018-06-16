@@ -1,0 +1,6 @@
+marisa-trie==0.7.5
+matplotlib==2.2.2
+memory-profiler==0.52.0
+numpy==1.14.3
+Pympler==0.5
+
